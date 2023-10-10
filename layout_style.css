@@ -1,0 +1,98 @@
+body{
+        background-color: green;
+}
+p,strong{
+        text-align: center;
+}
+.space2{
+        display: inline-block;
+        margin-right: 10px;
+}
+.space{
+        box-sizing: border-box;
+        display: inline-block;
+        
+        margin-right: auto;
+}
+.amarela{
+        background-color: yellow;
+        
+}
+.backcolor:hover{
+        background-color: lightblue;
+                
+}
+#div{
+        box-sizing: border-box;
+        height: 400px;
+        width: 800px;
+        position: absolute; top:50%; left:50%; transform:translate(-50%, -50%);
+        
+}
+#div1{
+        box-sizing: border-box;
+        float: left;
+        box-sizing: border-box;
+        border: 3px solid #ccc;
+        width: 40%;
+        height: 400px;
+        background-color: azure;
+}
+#div2{
+        box-sizing: border-box;
+        float: right;
+        text-align: center ;
+        width: 60%;
+        height: 25px;
+        background-color: lightgreen;
+        
+}
+
+#link-barra1{
+        color: black;
+        background-color: whitesmoke;
+        margin-left: 90px;
+        margin-right: 90px;
+}
+.link-barra2{
+        margin-right: auto;
+        color: green;
+        background-color: whitesmoke;
+        
+        
+}
+a:hover{
+        font-style: italic;
+        font-size: 15px;
+}
+#div3{
+        box-sizing: border-box;
+        float: right;
+        margin-top: 0px;
+        margin-left: 0px;
+        height: 350px;
+        width: 60%;
+        background-color:  red;
+        text-align: center;
+}
+h2{
+        margin-top: -0.3px;
+}
+.up{
+        margin-top: -2px;
+}
+#div4{
+        box-sizing: border-box;
+        float: right;
+        margin-top: 0px;
+        margin-left: 0px;
+        height: 25px;
+        width: 60%;
+        background-color: yellow;
+        text-align: center;
+}
+#gredes{
+        background-color: lightseagreen;
+        color: black;
+}
+
